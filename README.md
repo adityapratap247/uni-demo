@@ -1,2 +1,2 @@
 # uni-demo
-Demo for github-git
+Demo for github-git.
